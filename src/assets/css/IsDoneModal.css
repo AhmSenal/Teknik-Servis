@@ -1,0 +1,15 @@
+.main {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  background-color: rgba(128, 128, 128, 0.768);
+}
+.contentdiv {
+  background-color: rgb(221, 223, 224);
+  width: 300px;
+  height: auto;
+  margin: auto;
+  margin-top: 3%;
+  padding: 20px;
+  border-radius: 5px;
+}

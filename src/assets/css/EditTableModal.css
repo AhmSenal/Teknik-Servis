@@ -1,0 +1,18 @@
+.main {
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(128, 128, 128, 0.768);
+}
+
+.formEdit {
+  background-color: rgb(221, 223, 224);
+  width: 300px;
+  height: auto;
+  margin: auto;
+  margin-top: 3%;
+  padding: 20px;
+  border-radius: 5px;
+}

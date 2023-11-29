@@ -1,0 +1,77 @@
+{
+  "arizaKaydi": [
+    {
+      "id": 1701258332673,
+      "musteriIsim": "Dilaver",
+      "musteriSoyIsim": "ÇETİNKAYA",
+      "musteriTel": "5422347665",
+      "musteriAdres": "Aşağıkayabaşı Mahallesi Gündoğdu Sokak Gülçiçek Apartmanı Kat:8 No: 16 Merkez / NİĞDE",
+      "arizaliCihaz": "Çamaşır Makinesi",
+      "ariza": "Su boşaltmıyor",
+      "isDone": false
+    },
+    {
+      "id": 1701258623834,
+      "musteriIsim": "Gürbüz",
+      "musteriSoyIsim": "ÇETİN",
+      "musteriTel": "5354545678",
+      "musteriAdres": "Yukarıkayabaşı Mahallesi Kaya Sokak Seher Apartmanı Kat: 4 No: 16 Merkez / NİĞDE",
+      "arizaliCihaz": "Bulaşık Makinesi",
+      "ariza": "Pervane kırık",
+      "isDone": false
+    },
+    {
+      "id": 1701258709755,
+      "musteriIsim": "Hayati",
+      "musteriSoyIsim": "KARA",
+      "musteriTel": "5384567876",
+      "musteriAdres": "Kale Mahallesi Gülnaz Sokak Burhan Apartmanı Kat: 2 No: 8 Merkez / NİĞDE",
+      "arizaliCihaz": "Fırın",
+      "ariza": "Pişirmiyor",
+      "isDone": true
+    },
+    {
+      "id": 1701258850219,
+      "musteriIsim": "Fatma",
+      "musteriSoyIsim": "YILMAZ",
+      "musteriTel": "5535686765",
+      "musteriAdres": "Selçuk Mahallesi Kalkan Sokak Bey Apartmanı Kat: 6 No: 12 Merkez / NİĞDE",
+      "arizaliCihaz": "Ocak",
+      "ariza": "Kırık",
+      "isDone": true
+    }
+  ],
+  "musteriListesi": [
+    {
+      "musteriId": 1,
+      "musteriIsim": "Ahmet",
+      "musteriSoyisim": "ŞENAL",
+      "musteriTel": 5393430151,
+      "musteriAdres": "İnönü Mahallesi Çelebi Sokak Ebrar City A Blok Kat: 5 Daire No: 19 Merkez / NİĞDE"
+    },
+    {
+      "musteriId": 2,
+      "musteriIsim": "Bilal",
+      "musteriSoyisim": "SAVRAN",
+      "musteriTel": 5393230151,
+      "musteriAdres": "İnönü Mahallesi Çelebi Sokak Ebrar City A Blok Kat: 11 Daire No: 44 Merkez / NİĞDE"
+    }
+  ],
+  "musteriSikayetOneri": [
+    {
+      "id": 1700300430083,
+      "createdAt": "18.11.2023 12:40:30",
+      "message": "Servis personeliniz zamanında geldi."
+    },
+    {
+      "id": 1700407582479,
+      "createdAt": "19.11.2023 18:26:22",
+      "message": "merhaba"
+    },
+    {
+      "id": 1701073169292,
+      "createdAt": "27.11.2023 11:19:29",
+      "message": "meakmia"
+    }
+  ]
+}
